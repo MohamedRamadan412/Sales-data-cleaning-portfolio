@@ -1,0 +1,21 @@
+order_id,order_date,customer_name,product,quantity,unit_price,city
+1001,2026-09-01,Ahmed Hassan,Laptop Stand,2,350,Cairo
+1002,2026-09-02,Mona Ali,Wireless Mouse,3,220,Giza
+1003,2026-09-02,Omar Samy,Keyboard,1,450,Alexandria
+1004,2026-09-03,Sara Mahmoud,Monitor,2,3200,Cairo
+1005,2026-09-04,Ahmed Hassan,Wireless Mouse,1,220,Cairo
+1006,2026-09-05,Noor Adel,USB Hub,4,180,Giza
+1007,2026-09-06,Khaled Tarek,Keyboard,2,450,Alexandria
+1008,2026-09-07,Laila Mostafa,Monitor,1,3200,Cairo
+1009,2026-09-08,Youssef Nabil,Laptop Stand,3,350,Giza
+1010,2026-09-09,Salma Fathy,USB Hub,2,180,Cairo
+1005,2026-09-04,Ahmed Hassan,Wireless Mouse,1,220,Cairo
+1011,2026-09-10,  Mariam Adel  ,Wireless Mouse,2,220,Giza
+1012,2026-09-11,Amr Hany,Keyboard,0,450,Cairo
+1013,2026-09-12,Hana Mostafa,USB Hub,3,180,Alexandria
+1014,2026-09-13,Karim Wael,Laptop Stand,2,350,Cairo
+1015,2026-09-14,Farah Emad,Monitor,1,3200,Giza
+1016,2026-09-15,Adel Sameh,Keyboard,1,450,Alexandria
+1017,2026-09-16,Nouran Ashraf,USB Hub,5,180,Cairo
+1018,2026-09-17,Mostafa Reda,Laptop Stand,1,350,Giza
+1019,2026-09-18,Reem Hossam,Wireless Mouse,2,220,Cairo

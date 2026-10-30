@@ -55,5 +55,13 @@ The database is SQLite, so you can run the queries in `sql/reports.sql` using a 
 
 Built a small ETL pipeline to clean raw sales data, remove duplicate and invalid records, calculate revenue, load results into a database, and generate SQL reports by product, city, and date.
 
+## Project Results
+
+### Before and After Data Cleaning
+![Data Cleaning Results](screenshots/before-after.png)
+
+### Pipeline Execution
+![Pipeline Results](screenshots/pipeline-results.png)
+
 ## Important
 This is a demonstration project with synthetic sample data, not real client data. Adapt the cleaning rules to each client's requirements before using this workflow for paid work.
